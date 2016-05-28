@@ -14,7 +14,9 @@ Requirements: Groovy and GraphViz installed in the PATH
 
 ### Output
 
+(projectnames obfuscated)
+
 ![Example output](https://raw.githubusercontent.com/galan/maven-graph/master/images/dependencies-01.png)
 
-(projectnames obfuscated)
+![Example output](https://raw.githubusercontent.com/galan/maven-graph/master/images/dependencies-02.png)
 
